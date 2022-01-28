@@ -22,3 +22,8 @@ header .logo-container span {
   margin-left: 1rem;
   font-weight: 800;
 }
+
+main .desktop-container {
+  max-width: var(--container-xl);
+  margin: 0 auto;
+}
