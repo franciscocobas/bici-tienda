@@ -1,6 +1,6 @@
 header {
-  border-bottom: 1px solid var(--border-grey);
-  background-color: #ebebeb;
+  border-bottom: 1px solid var(--border-gray);
+  background-color: var(--bg-gray);
 }
 
 header .desktop-container {

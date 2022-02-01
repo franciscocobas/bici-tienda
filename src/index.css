@@ -21,7 +21,9 @@ code {
 :root {
   --container-xl: 1280px;
   --main-red: #864e4e;
-  --border-grey: #535353;
+  --border-gray: #535353;
+  --border-ligthgray: #cacaca;
+  --bg-gray: #ebebeb;
 }
 
 button {

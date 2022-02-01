@@ -8,7 +8,7 @@ export default function Menu() {
       <li><a href="#">Bicicletas</a></li>
       <li><a href="#">Accesorios</a></li>
       <li><a href="#">Ropa</a></li>
-      <li><CartWidget /></li>
+      <li><a href="#"><CartWidget /></a></li>
     </ul>
   );
 };
