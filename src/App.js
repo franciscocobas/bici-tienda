@@ -4,6 +4,7 @@ import NavBar from './components/NavBar';
 import ItemListContainer from './components/ItemListContainer';
 
 import logo from './images/logo.svg';
+import ItemDetailContainer from './components/ItemDetailContainer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <main>
         <div className='desktop-container'>
           <ItemListContainer greetings="Bienvenidos a la Bici Tienda" />
+          <ItemDetailContainer />
         </div>
       </main>
     </div>

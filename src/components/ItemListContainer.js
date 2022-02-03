@@ -27,7 +27,7 @@ export default function ItemListContainer({ greetings }) {
 
       {
         itemsList.length === 0 ? 
-          <p>Cargando...</p> : 
+          <p>Cargando productos...</p> : 
           <ItemList items={itemsList} />
       }
 
