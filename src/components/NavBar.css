@@ -16,6 +16,15 @@ li a {
   color: black;
 }
 
+li a.active {
+  font-weight: bold;
+  color: #303030;
+}
+
+li a.active:hover {
+  text-decoration: none;
+}
+
 li a:hover {
   text-decoration: underline;
 }

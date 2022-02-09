@@ -4,6 +4,11 @@
   text-align: center;
 }
 
+.item-container a {
+  color: black;
+  text-decoration: none;
+}
+
 .item-container img {
   width: 100%;
   padding: 1rem;
